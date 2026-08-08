@@ -1,6 +1,6 @@
-Bronze Bucket Name - yt-data-pipeline-brozne-ap-south-1-dev
-Silver Bucket Name - yt-data-pipeline-silver-ap-south-1-dev
-Gold Bucket Name -  yt-data-pipeline-gold-ap-south-1-dev
+Bronze Bucket Name - pani-yt-data-pipeline-bronze-ap-south-1-dev
+Silver Bucket Name - pani-yt-data-pipeline-silver-ap-south-1-dev
+Gold Bucket Name -  pani-yt-data-pipeline-gold-ap-south-1-dev
 
 Script Bucket - yt-data-pipeline-script-ap-south-1-dev
 
